@@ -1,6 +1,6 @@
 streamlit
 opencv-python-headless==4.8.0.76
-mediapipe==0.10.5
+mediapipe==0.10.10
 numpy
 joblib
 pyttsx3
